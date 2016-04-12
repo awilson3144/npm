@@ -1,0 +1,23 @@
+{
+  "name": "@awilson3144/npm_env",
+  "version": "1.0.0",
+  "description": "new package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awilson3144/npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "awilson3144",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awilson3144/npm/issues"
+  },
+  "homepage": "https://github.com/awilson3144/npm#readme",
+  "dependencies": {}
+}
